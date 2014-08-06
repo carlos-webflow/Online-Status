@@ -1,5 +1,6 @@
 <?php
 /**
+ * LIST OF THINGS STILL TO DO
  * TODO: Make sure @anonymous turns into diferent unique object{@id,@name}
  * TODO: Add @id to @user->data
  */
