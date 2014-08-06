@@ -216,3 +216,14 @@ pip-log.txt
 
 # StormPHP
 .ideia/
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/vagrant.xml
+.idea/scopes/scope_settings.xml
+.idea/Online-Status.iml
+.idea/modules.xml
+.idea/misc.xml
+.idea/encodings.xml
+.idea/dictionaries/m00nwiz.xml
+.idea/deployment.xml
+.idea/.name
