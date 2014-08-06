@@ -1,4 +1,8 @@
 <?php
+/**
+ * TODO: Make sure @anonymous turns into diferent unique object{@id,@name}
+ * TODO: Add @id to @user->data
+ */
 session_start();
 function autoloadClasses ($pClassName) {
 		include(__DIR__ . "/classes/class." . $pClassName . ".lib.php");
