@@ -1,15 +1,19 @@
 <?php
+
 /**
  * GLOBAL FUNCTIONS
  */
-	class Functions
+class Functions
+{
+	public function __construct()
 	{
-		public function __construct()
-			{
-				return( '{' . __METHOD__ . '}' );
-			}
-			public function p($array){
-				echo("<pre>".print_r($array,true)."</pre>");
-			}
+		return ('{' . __METHOD__ . '}');
 	}
+
+	public function p($array)
+	{
+		echo("<pre>" . print_r($array, true) . "</pre>");
+	}
+}
+
 ?>
